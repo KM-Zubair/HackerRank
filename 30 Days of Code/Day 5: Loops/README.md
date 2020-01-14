@@ -8,7 +8,7 @@ Given an integer,n, print its first 10 multiples. Each multiple n x i (where 1 <
 
 Input Format
 
-A single integer,n .
+A single integer, n.
 
 
 
